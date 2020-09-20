@@ -3,7 +3,7 @@
  <img width=400px height=400px src="./src/assets/logo18.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Github Explorer</h3>
+<h3 align="center">GoFinances</h3>
 
 <div align="center">
 
