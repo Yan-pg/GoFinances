@@ -22,8 +22,8 @@
 
 ## 📝 Índice
 
-- [About](#about)
-- [Getting Started](#getting_started)
+- [Sobre](#about)
+- [Começando](#getting_started)
 
 ## 🧐 Sobre <a name = "about"></a>
 
@@ -32,7 +32,7 @@
 Aplicação do GoFinances feita para gerenciar entradas e saídas de dinheiro, onde você também pode importar aquivos .CSV.
 Parra importação foi utilizado a lib multer e foi utilizado Typescript.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Começando <a name = "getting_started"></a>
 
 <div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span>Clone esse repositório</span>
 $ git clone https://github.com/Yan-pg/GoFinances.git
@@ -43,16 +43,12 @@ $ <span class="pl-c1">cd</span> Github-explore
 
 <span class="pl-c"><span class="pl-c">#</span>Instale as depedências</span>
 $ yarn
-
 ou
-
 $npm install
 
 <span class="pl-c"><span class="pl-c">#</span> Run the app</span>
 $ yarn start</pre></div>
-
 ou
-
 $ npm start</pre></div>
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -60,5 +56,7 @@ $ npm start</pre></div>
 - [NodeJS](https://nodejs.org/en/) - Back-end
 - [ReactJS](https://pt-br.reactjs.org/) - Web Framework
 - [Multer](https://pt-br.reactjs.org/) - Upload de aquivos
+
+
 
 <p>Made with <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png"><img class="emoji" alt="purple_heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png"></g-emoji> by Yan César <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji>
