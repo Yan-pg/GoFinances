@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=400px src="./src/assets/Logo18.svg" alt="Project logo"></a>
+ <img width=400px height=400px src="./src/assets/logo18.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Github Explorer</h3>
