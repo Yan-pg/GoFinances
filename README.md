@@ -1,5 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
+ <img width=400px height=400px src="blob:https://web.whatsapp.com/e61f273a-dfed-465a-9cf4-26607de896f2" alt="Project logo"></a>
  <img width=400px height=400px src="./src/assets/logo18.svg" alt="Project logo"></a>
 </p>
 
